@@ -129,3 +129,7 @@ Example (Questa / qrun):
 qrun -sv -uvm -mfcu design.sv tb_includes.sv +UVM_TESTNAME=fifo_base_test
 qrun -sv -uvm -mfcu design.sv tb_includes.sv +UVM_TESTNAME=fifo_random_test
 qrun -sv -uvm -mfcu design.sv tb_includes.sv +UVM_TESTNAME=fifo_reset_mid_test
+
+<img width="1536" height="864" alt="_IF_2_CASES_EXM" src="https://github.com/user-attachments/assets/559adb1e-5f67-4127-acba-7f0e2e5b92e9" />
+
+
