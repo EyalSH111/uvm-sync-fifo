@@ -105,7 +105,7 @@ Each test creates a fresh environment instance and reuses the same driver,
 monitor, scoreboard, and coverage components.
 
 ---
-Waveforms:
+###Waveforms:
 <img width="1536" height="864" alt="_IF_2_CASES_EXM" src="https://github.com/user-attachments/assets/39a0b6f5-2212-44e9-8127-0bb193e72033" />
 
 
