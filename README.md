@@ -107,7 +107,8 @@ monitor, scoreboard, and coverage components.
 ---
 ### Waveforms Example:
 <img width="1536" height="864" alt="_IF_2_CASES_EXM" src="https://github.com/user-attachments/assets/39a0b6f5-2212-44e9-8127-0bb193e72033" />
-### Block Diagram:
+
+## Block Diagram:
 <img width="1144" height="655" alt="image" src="https://github.com/user-attachments/assets/adc6e029-3886-429c-b20d-0e369063b4a2" />
 
 
